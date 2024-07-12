@@ -40,6 +40,7 @@ function plot_test()
     colorbar;
 end
 ~~~
+![](img/mehgrid_example.jpg)
 
 ## Prompt Example 2: Create MATLAB system class for Simulink block
 ~~~
@@ -117,3 +118,4 @@ classdef add_noise < matlab.System
     end
 end
 ~~~
+![](img/add_noise_block.jpg)
